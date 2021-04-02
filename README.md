@@ -2,7 +2,7 @@
 permalink: /index.html
 ---
 
-https://filatovalexey.github.io/
+https://filatovalexey.github.io/react-quiz/
 
 # Getting Started with Create React App
 
